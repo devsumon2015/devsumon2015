@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQG1ntz9jPkfwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716482471666?e=1756944000&v=beta&t=PhJLaoD62TSKk197fcrwgXli4XYcCMN-QDPT0fPQpZk">
 <h1 align="center">Hello 👋, I'm Md. Khariurl Hassan Sumon</h1>
-<h3 align="center">A passionate WordPress Expert | Web Design & Developer</h3>
+<h3 align="center">Creative WordPress Expert | Custom Web Design & Development Specialist | UI/UX-Focused Expert | Speed-Optimized & Mobile-Resposive | Theme, Plugin, and Custom Build Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsumon2015&label=Profile%20views&color=0e75b6&style=flat" alt="devsumon2015" /> </p>
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/md-khairul-hassan/](https://www.linkedin.com/in/md-khairul-hassan/)
 
-- ⚡ Fun fact **A Web Page Can Have Over 10000 Lines Of Code**
+- ⚡ Fun Fact: The First Website Ever Created Is Still Live Today!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
