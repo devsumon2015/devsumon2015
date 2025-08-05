@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQG1ntz9jPkfwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716482471666?e=1756944000&v=beta&t=PhJLaoD62TSKk197fcrwgXli4XYcCMN-QDPT0fPQpZk](https://media.licdn.com/dms/image/v2/D5616AQG7iLFjozAg6Q/profile-displaybackgroundimage-shrink_200_800/B56Zh7iVCEHkAY-/0/1754419255000?e=1757548800&v=beta&t=XGArWZY4zeg7PXmtFrpdEi0w_dl6C3I4ahEDBB0YFco)">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG7iLFjozAg6Q/profile-displaybackgroundimage-shrink_200_800/B56Zh7iVCEHkAY-/0/1754419255000?e=1757548800&v=beta&t=XGArWZY4zeg7PXmtFrpdEi0w_dl6C3I4ahEDBB0YFco">
 <h1 align="center">Hello 👋, I'm Md. Khariurl Hassan Sumon</h1>
 <h3 align="center">Creative WordPress Expert | Custom Web Design & Development Specialist | UI/UX-Focused Expert | Speed-Optimized & Mobile-Resposive | Theme, Plugin, and Custom Build Specialist</h3>
 
